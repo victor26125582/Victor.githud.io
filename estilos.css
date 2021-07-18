@@ -86,7 +86,7 @@ header label{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(img/inicio_fondo.png) no-repeat;
+    background: url(inicio_fondo.png) no-repeat;
     background-size: cover;
     background-position:center;
 
@@ -189,7 +189,7 @@ transition: .2s linear;
 }
 
 .acerca_de{
-    background: url(img/fondo_2.png) no-repeat;
+    background: url(fondo_2.png) no-repeat;
     background-size: cover;
     background-position:center ;
     padding-bottom: 3rem;
@@ -233,7 +233,7 @@ transition: .2s linear;
 .suscribete{
     text-align: center;
     padding:5rem 1rem ;
-    background:url(img/fondo_sub.png) no-repeat ;
+    background:url(fondo_sub.png) no-repeat ;
     background-size: cover ;
     background-position:center ;
 }
@@ -477,7 +477,7 @@ background:none ;
 
 .footer{
     padding-top: 3rem;
-    background: url(img/footer-fondo.png);
+    background: url(footer-fondo.png);
     background-size: cover;
     background-position:center ;
 }
